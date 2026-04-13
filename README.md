@@ -3,7 +3,7 @@
 A simple face recognition system built from scratch using Linear Algebra concepts —
 Eigenvalue Decomposition and Orthogonal Projection — without using any deep learning libraries.
 
---
+---
 
 ## Concepts Used
 
@@ -24,6 +24,7 @@ Eigenvalue Decomposition and Orthogonal Projection — without using any deep le
 
 ---
 ## Project Structure
+```
 face_recognition_project/
 │
 ├── dataset/
@@ -34,6 +35,7 @@ face_recognition_project/
 ├── test_images/        ← images to test recognition on
 │
 └── face_recognition.py
+```
 ---
 
 ## How It Works
