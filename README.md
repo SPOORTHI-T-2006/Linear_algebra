@@ -3,7 +3,7 @@
 A simple face recognition system built from scratch using Linear Algebra concepts —
 Eigenvalue Decomposition and Orthogonal Projection — without using any deep learning libraries.
 
----
+--
 
 ## Concepts Used
 
